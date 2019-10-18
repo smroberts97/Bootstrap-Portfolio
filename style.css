@@ -1,0 +1,24 @@
+body {
+    background-image: url("/Users/shannonroberts/Documents/Basic-Portfolio/Basic-Portfolio/assets/images/seigaiha.png");
+    font-family: 'PT Sans', sans-serif;
+    flex-grow: 1;
+    display: block;
+    margin: 8px;
+      margin-top: 8px;
+      margin-right: 8px;
+      margin-bottom: 8px;
+      margin-left: 8px;
+  }
+  
+title {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.container {
+ font-family: 'Fjalla One', sans-serif;
+ float: left;
+ text-align: center;
+ font-size: 10px;
+ color: gray;
+
+}
