@@ -12,13 +12,25 @@ body {
   
 title {
   font-family: 'Fjalla One', sans-serif;
+  text-align: left;
 }
 
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: left;
+  font-size: 16px;
+}
+
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: left;
+  font-size: 14px;
+}
+
+
+
 .container {
- font-family: 'Fjalla One', sans-serif;
- float: left;
- text-align: center;
- font-size: 10px;
- color: gray;
+ font-family: 'Pt Sans', sans-serif;
+ font-size: 14px;
 
 }
